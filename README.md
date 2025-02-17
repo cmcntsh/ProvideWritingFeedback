@@ -1,8 +1,8 @@
 # Provide Writing Feedback (The Stripped Down Version)
 
-## Evaluate the Comprehensiveness of Content Coverage
+## Evaluate if required section content was covered
 
-* This requires that requirements for section content are already clearly defined.
+* This requires that requirements for section topics are already clearly defined.
 * https://github.com/cmcntsh/PoWeRWritingGradStudents#evaluate-the-comprehensiveness-of-content-coverage
 * Identifying what students have missed is a great place to start.
 
