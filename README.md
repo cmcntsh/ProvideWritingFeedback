@@ -1,12 +1,12 @@
 # Provide Writing Feedback (The Stripped Down Version)
 
-## Evaluate if required section content was covered
+## Evaluate if required section topics were covered
 
 * This requires that requirements for section topics are already clearly defined.
 * https://github.com/cmcntsh/PoWeRWritingGradStudents#evaluate-the-comprehensiveness-of-content-coverage
 * Identifying what students have missed is a great place to start.
 
-## Reverse Outline the section
+## Reverse outline the section
 
 * https://github.com/cmcntsh/PoWeRWritingGradStudents#highlighting
 * This helps you identify the basic logic used ot organize the section.
