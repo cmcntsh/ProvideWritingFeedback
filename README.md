@@ -3,7 +3,7 @@
 ## Evaluate if required section topics were covered
 
 * This requires that requirements for section topics are already clearly defined.
-* https://github.com/cmcntsh/PoWeRWritingGradStudents#evaluate-the-comprehensiveness-of-content-coverage
+* https://github.com/NALLEN1381/DNPSPSquires
 * Identifying what students have missed is a great place to start.
 
 ## Reverse outline the section
