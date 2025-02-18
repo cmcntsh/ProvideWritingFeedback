@@ -9,9 +9,9 @@
 ## Reverse outline the section
 
 * https://github.com/cmcntsh/PoWeRWritingGradStudents#highlighting
-* This helps you identify the basic logic used ot organize the section.
+* This helps you identify the basic logic used to organize the section.
 * This also helps you evaluate how well each paragraph is structured.
-* Internal paragraph structure seems to be a major place many students have problems.
+* Internal paragraph structure seems to be a major place where many students have problems.
 * Order of paragraphs in a section is often also where students demonstrate disordered organization.
 
 ## Give feedback about how to improve paragraphs
