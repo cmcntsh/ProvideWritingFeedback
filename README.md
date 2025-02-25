@@ -1,6 +1,6 @@
 # Provide Writing Feedback (The Stripped Down Version)
 
-## Evaluate if required section topics were covered
+## Evaluate if required section topics were covered 
 
 * This requires that requirements for section topics are already clearly defined.
 * https://github.com/NALLEN1381/DNPSPSquires
